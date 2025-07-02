@@ -3,6 +3,7 @@
 Este projeto é um dashboard desenvolvido para a melhor visualização de produtos vendidos pela LG e, também para 
 insights de negócios que podem avalancar as vendas da empresa com metricas de ticket medio e quantidade de vendas
 #### Obs: Esse sistema foi produzido em um processo seletivo!  
+#### Obs 2: Dados modificados, para não ter problemas com LGPD no repositório desse projeto!  
 
 ## ✅ Objetivos do Projeto
 - Analisar o desempenho de produtos vendidos.
@@ -21,10 +22,11 @@ insights de negócios que podem avalancar as vendas da empresa com metricas de t
 
 - Modelagem de dados com relacionamento entre tabelas
 
-![image](https://github.com/user-attachments/assets/2a940560-a3dd-4e9c-b7e2-abfbdd571839)
-![image](https://github.com/user-attachments/assets/eb34a1db-58f8-42bf-8c96-75fb4e3fdfe1)
-![image](https://github.com/user-attachments/assets/16c260fd-9959-4968-851d-7d39c1886087)
-![image](https://github.com/user-attachments/assets/d9a542d8-8f75-4afa-a6d8-c7f57ed4ec36)
+![image](https://github.com/user-attachments/assets/0b4eb05c-d73f-4174-b9e8-95b697ff73f0)
+![image](https://github.com/user-attachments/assets/05918f7a-152b-405b-9e9b-229fa236fec8)
+![image](https://github.com/user-attachments/assets/4b7cbd10-5d58-45a1-b917-e669a0ea762b)
+![image](https://github.com/user-attachments/assets/87ca6626-2ad2-4ebb-884b-4e6584211d72)
+
 
 
 
